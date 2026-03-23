@@ -30,4 +30,3 @@ python main_pygame.py
 - `P`：暂停/继续
 - `R`：重新开始
 - `Esc`：退出
-
